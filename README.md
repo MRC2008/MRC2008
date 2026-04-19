@@ -1,8 +1,7 @@
 👋🏻 Hello, I'm Mohsen! Welcome to my GitHub profile.
 
 Here are my primary areas of interest:
-- ✨ Astrophysics and Cosmology
-- 🌌 Statistical Mechanics
+- 📚 Physics
 - 🔢 Data Science
 - 💻 Python Programming
 
